@@ -1,0 +1,10 @@
+{
+  "title": "Meetup Group",
+  "description": "Join our meetup group: https://www.meetup.com/application-library-engineering-group/",
+  "logoUrl": "/meetup/meetup-logo.jpg",
+  "tags": ["meetup"],
+  "exclude": [
+    ".*-about$",
+    "^lang-.*"
+  ]
+}
